@@ -21,3 +21,9 @@
 支持签到、分享获取积分。
 
 社工库账号：<a href="https://mfsgk.com/18.html" target="_blank">@aishegongkubot</a>，详情：<a href="https://mfsgk.com/18.html" target="_blank">AI社工库</a>。
+
+## 星盾社工库机器人
+
+支持分享来获取积分，超强的快递地址查询功能，微信绑定查询、微博绑定查询等，数据收录较全，真实性自行验证。
+
+社工库账号：<a href="https://mfsgk.com/25.html" target="_blank">@XingDun6Bot</a>，详情：<a href="https://mfsgk.com/25.html" target="_blank">星盾社工库机器人</a>。
