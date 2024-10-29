@@ -27,3 +27,10 @@
 支持分享来获取积分，超强的快递地址查询功能，微信绑定查询、微博绑定查询等，数据收录较全，真实性自行验证。
 
 社工库账号：<a href="https://mfsgk.com/25.html" target="_blank">@XingDun6Bot</a>，详情：<a href="https://mfsgk.com/25.html" target="_blank">星盾社工库机器人</a>。
+
+
+## 狗狗免费社工机器人
+
+一个签到可以免费使用的社工库。
+
+社工库账号：<a href="https://mfsgk.com/27.html" target="_blank">@DogeSGK_bot</a>，详情：<a href="https://mfsgk.com/27.html" target="_blank">狗狗免费社工机器人</a>。
