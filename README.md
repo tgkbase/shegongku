@@ -40,3 +40,9 @@
 一个签到可以免费使用的社工库。
 
 社工库账号：<a href="https://mfsgk.com/27.html" target="_blank">@DogeSGK_bot</a>，详情：<a href="https://mfsgk.com/27.html" target="_blank">狗狗免费社工机器人</a>。
+
+## Hope社工库机器人
+
+支持微信绑定、QQ绑定等数据查询，但感觉数据比较旧，不如暗精灵社工库全面。
+
+社工库账号：<a href="https://mfsgk.com/34.html" target="_blank">@DogeSGK_bot</a>，详情：<a href="https://mfsgk.com/34.html" target="_blank">Hope社工库机器人</a>.
