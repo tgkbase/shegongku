@@ -45,4 +45,9 @@
 
 支持微信绑定、QQ绑定等数据查询，但感觉数据比较旧，不如暗精灵社工库全面。
 
-社工库账号：<a href="https://mfsgk.com/34.html" target="_blank">@DogeSGK_bot</a>，详情：<a href="https://mfsgk.com/34.html" target="_blank">Hope社工库机器人</a>.
+社工库账号：<a href="https://mfsgk.com/34.html" target="_blank">@DogeSGK_bot</a>，详情：<a href="https://mfsgk.com/34.html" target="_blank">Hope社工库机器人</a>。
+
+
+## X-ray社工库-免费Telegram社工库
+
+社工库账号：<a href="https://mfsgk.com/36.html" target="_blank">@Zonesgk_bot</a>，详情：<a href="https://mfsgk.com/36.html" target="_blank">X-ray社工库</a>。
