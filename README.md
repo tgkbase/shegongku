@@ -51,3 +51,7 @@
 ## X-ray社工库-免费Telegram社工库
 
 社工库账号：<a href="https://mfsgk.com/36.html" target="_blank">@Zonesgk_bot</a>，详情：<a href="https://mfsgk.com/36.html" target="_blank">X-ray社工库</a>。
+
+## 哈希社工库
+
+社工库账号：<a href="https://mfsgk.com/38.html" target="_blank">@AnonymousSGKbot</a>，使用教程：<a href="https://mfsgk.com/38.html" target="_blank">哈希社工库</a>。
