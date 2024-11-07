@@ -55,3 +55,7 @@
 ## 哈希社工库
 
 社工库账号：<a href="https://mfsgk.com/38.html" target="_blank">@AnonymousSGKbot</a>，使用教程：<a href="https://mfsgk.com/38.html" target="_blank">哈希社工库</a>。
+
+## Hello World社工库机器人
+
+社工库账号：<a href="https://mfsgk.com/47.html" target="_blank">@sgk2023_03_30bot</a>，使用教程：<a href="https://mfsgk.com/47.html" target="_blank">Hello World社工库机器人</a>。
