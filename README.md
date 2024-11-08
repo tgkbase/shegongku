@@ -59,3 +59,8 @@
 ## Hello World社工库机器人
 
 社工库账号：<a href="https://mfsgk.com/47.html" target="_blank">@sgk2023_03_30bot</a>，使用教程：<a href="https://mfsgk.com/47.html" target="_blank">Hello World社工库机器人</a>。
+
+
+## 摩乐乐社工库机器人
+
+社工库账号：<a href="https://mfsgk.com/49.html" target="_blank">@MoLeLeBot</a>，使用教程：<a href="https://mfsgk.com/14.html" target="_blank">摩乐乐社工库机器人</a>。
