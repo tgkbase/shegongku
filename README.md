@@ -64,3 +64,7 @@
 ## 摩乐乐社工库机器人
 
 社工库账号：<a href="https://mfsgk.com/49.html" target="_blank">@MoLeLeBot</a>，使用教程：<a href="https://mfsgk.com/14.html" target="_blank">摩乐乐社工库机器人</a>。
+
+## 叮当猫社工库机器人
+
+社工库账号：<a href="https://mfsgk.com/52.html" target="_blank">@DingDangCats_Bot</a>，使用教程：<a href="https://mfsgk.com/52.html" target="_blank">叮当猫社工库机器人</a>。
