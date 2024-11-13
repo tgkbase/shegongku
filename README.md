@@ -68,3 +68,9 @@
 ## 叮当猫社工库机器人
 
 社工库账号：<a href="https://mfsgk.com/52.html" target="_blank">@DingDangCats_Bot</a>，使用教程：<a href="https://mfsgk.com/52.html" target="_blank">叮当猫社工库机器人</a>。
+
+
+## 平安社工库机器人
+
+社工库账号：<a href="https://mfsgk.com/56.html" target="_blank">@pingansgk_bot</a>，使用教程：<a href="https://mfsgk.com/56.html" target="_blank">平安社工库机器人</a>。
+
