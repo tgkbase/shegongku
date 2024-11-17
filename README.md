@@ -74,3 +74,8 @@
 
 社工库账号：<a href="https://mfsgk.com/56.html" target="_blank">@pingansgk_bot</a>，使用教程：<a href="https://mfsgk.com/56.html" target="_blank">平安社工库机器人</a>。
 
+
+## 275社工库机器人
+
+社工库账号：<a href="https://mfsgk.com/67.html" target="_blank">@tsfsgkbot</a>，使用教程：<a href="https://mfsgk.com/67.html" target="_blank">275社工库机器人</a>。
+
