@@ -79,3 +79,7 @@
 
 社工库账号：<a href="https://mfsgk.com/67.html" target="_blank">@tsfsgkbot</a>，使用教程：<a href="https://mfsgk.com/67.html" target="_blank">275社工库机器人</a>。
 
+## 小孩哥社工库机器人
+
+社工库账号：<a href="https://mfsgk.com/70.html" target="_blank">@xiaohaigeSGK1_bot</a>，使用教程：<a href="https://mfsgk.com/70.html" target="_blank">小孩哥社工库机器人</a>。
+
