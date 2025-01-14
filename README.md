@@ -102,7 +102,11 @@
 
 社工库账号：<a href="https://mfsgk.com/85.html" target="_blank">@wmsgk1_bot</a>，使用教程：<a href="https://mfsgk.com/85.html" target="_blank">无名社工库机器人</a>。
 
+## 金字塔社工库机器人
 
+社工库账号：<a href="https://mfsgk.com/" target="_blank">@PyramidNet_SGK</a>，使用教程：<a href="https://mfsgk.com/" target="_blank">金字塔社工库机器人</a>。
+
+这个社工库账号被注销了，目前已经搜索不到。
 
 参考文章：
 
