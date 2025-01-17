@@ -94,6 +94,11 @@
 
 ## 小孩哥社工库机器人
 
+
+
+<a href="https://mfsgk.com" target="_blank"><img src="imgs/xiaohaige.png" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
+
+
 社工库账号：<a href="https://mfsgk.com/70.html" target="_blank">@xiaohaigeSGK1_bot</a>，使用教程：<a href="https://mfsgk.com/70.html" target="_blank">小孩哥社工库机器人</a>。
 
 ## 日月社工库机器人
