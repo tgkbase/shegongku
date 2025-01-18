@@ -17,6 +17,15 @@
 社工库账号：[@AAAL8BOT](https://t.me/@AAAL8BOT?start=NTgzNzg1NTEy)。
 
 
+## FanHua社工库机器人(繁花社工库)
+
+支持身份证补齐的社工库机器人，查询免费，查询结果大码，需要积分解锁结果，支持签到和分享获取积分。
+
+社工库账号：[@FanHuaSGK_bot](https://t.me/FanHuaSGK_bot?start=FanHua_YSXVMLQM)
+)。
+
+
+
 ## 暗精灵社工库
 
 一个Telegram社工库机器人，下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
