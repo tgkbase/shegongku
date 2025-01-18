@@ -21,8 +21,7 @@
 
 支持身份证补齐的社工库机器人，查询免费，查询结果大码，需要积分解锁结果，支持签到和分享获取积分。
 
-社工库账号：[@FanHuaSGK_bot](https://t.me/FanHuaSGK_bot?start=FanHua_YSXVMLQM)
-)。
+社工库账号：[@FanHuaSGK_bot](https://mfsgk.com/)。
 
 
 
