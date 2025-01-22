@@ -32,7 +32,7 @@
 <a href="https://mfsgk.com/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 
-社工库账号: <a href="https://mfsgk.com/18.html" target="_blank">@AJL01_bot</a>，详情：<a href="https://mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
+社工库账号: <a href="https://mfsgk.com/18.html" target="_blank">@AJL02_bot</a>，详情：<a href="https://mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
 
 
 ## AI社工库
