@@ -21,7 +21,10 @@
 
 支持身份证补齐的社工库机器人，查询免费，查询结果大码，需要积分解锁结果，支持签到和分享获取积分。
 
-社工库账号：[繁花社工库机器人](https://www.shegongku.top/491.html)。
+<a href="https://mfsgk.com" target="_blank"><img src="imgs/fanhua.webp" alt="2025最新查档社工库" border="0" style="width:380px;"></a>
+
+
+社工库账号：[@FanHuaSGK_bot](https://mfsgk.com/)。
 
 
 ## 暗精灵社工库
@@ -31,7 +34,7 @@
 <a href="https://mfsgk.com/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 
-社工库账号: <a href="https://mfsgk.com/18.html" target="_blank">@AJL02_bot</a>，详情：<a href="https://mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
+社工库账号: <a href="https://mfsgk.com/18.html" target="_blank">@AJL01_bot</a>，详情：<a href="https://mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
 
 
 ## AI社工库
