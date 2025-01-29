@@ -104,10 +104,9 @@
 
 ## 小孩哥社工库机器人
 
-
+提供傻瓜式查询服务，社工库数据包含全国电话表数据，全国快递订单数据，QQ绑定数据，数据由智网自动开户籍机器人提供？
 
 <a href="https://mfsgk.com" target="_blank"><img src="imgs/xiaohaige.png" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
-
 
 社工库账号：<a href="https://mfsgk.com/70.html" target="_blank">@xiaohaigeSGK1_bot</a>，使用教程：<a href="https://mfsgk.com/70.html" target="_blank">小孩哥社工库机器人</a>。
 
