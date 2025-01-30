@@ -32,10 +32,14 @@
 
 <a href="https://mfsgk.com" target="_blank"><img src="imgs/fanhua.webp" alt="2025最新查档社工库" border="0" style="width:380px;"></a>
 
-
 社工库账号：[繁花社工库](https://mfsgk.com/)。
 
 
+## 社工库技巧分享
+
+正规途径的社工库技巧，律师朋友教你内行人如何免费查人：裁判文书网（欠钱、离婚）、国家企业信息公示系统（查对方有没有公司）、中国执行信息公开网（查询是不是老赖）。
+
+详情：[免费查一个人的准确资料信息](https://x.com/byhxuejie/status/1885113771674210628)。
 
 ## AI社工库
 
