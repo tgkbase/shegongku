@@ -26,6 +26,13 @@
 社工库账号: <a href="https://t.me/AJL02_bot?start=1180760062" target="_blank">@AJL02_bot</a>，详情：<a href="https://mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
 
 
+## ChatGPT社工库机器人
+
+🔥ChatGPT综合信息查询机器人🔥，查询各类泄漏数据的社工库，势要打造全网热搜榜NO.1的社工库，目前维护中，没法使用。
+
+社工库账号：<a href="https://mfsgk.com/" target="_blank">@ChatGPTSGKbot</a>。
+
+
 ## FanHua社工库机器人(繁花社工库)
 
 支持身份证补齐的社工库机器人，查询免费，查询结果打码，需要积分解锁结果，支持签到和分享获取积分。
@@ -128,6 +135,7 @@
 社工库账号：<a href="https://mfsgk.com/" target="_blank">@PyramidNet_SGK_2025</a>，使用教程：<a href="https://mfsgk.com/" target="_blank">金字塔社工库机器人</a>。
 
 这个社工库账号被注销了，目前已经搜索不到。
+
 
 参考文章：
 
