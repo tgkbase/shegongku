@@ -30,7 +30,7 @@
 
 🔥ChatGPT综合信息查询机器人🔥，查询各类泄漏数据的社工库，势要打造全网热搜榜NO.1的社工库，目前维护中，没法使用。
 
-社工库账号：<a href="https://mfsgk.com/" target="_blank">@ChatGPTSGKbot</a>。
+社工库账号：<a href="https://mfsgk.com/" target="_blank">ChatGPT社工库机器人</a>。
 
 
 ## FanHua社工库机器人(繁花社工库)
@@ -134,7 +134,16 @@
 
 社工库账号：<a href="https://mfsgk.com/" target="_blank">@PyramidNet_SGK_2025</a>，使用教程：<a href="https://mfsgk.com/" target="_blank">金字塔社工库机器人</a>。
 
-这个社工库账号被注销了，目前已经搜索不到。
+这个社工库账号被注销了，目前已经搜索不到.
+
+
+## IT黑科技社工库分享频道
+
+一个社工库分享频道，整理分享来自互联网的社工库查询工具，不定时更新最全好用免费社工库，有需要的可以关注一下。
+
+频道账号：<a href="https://t.me/itheikeji" target="_blank">黑科技社工库分享</a>
+
+
 
 
 参考文章：
