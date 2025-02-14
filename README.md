@@ -67,7 +67,7 @@
 
 数据量比较全的一个社工库，这里不对社工库返回的数据真实性多做评价，请自行鉴别~
 
-社工库账号：<a href="https://mfsgk.com/30.html" target="_blank">@BOXsgkbot</a>，详情：<a href="https://mfsgk.com/30.html" target="_blank">黑盒社工库-Telegram社工库机器人</a>。
+社工库账号：<a href="https://mfsgk.com/30.html" target="_blank">黑盒社工库</a>，详情：<a href="https://mfsgk.com/30.html" target="_blank">黑盒社工库-Telegram社工库机器人</a>。
 
 
 ## 狗狗免费社工机器人
