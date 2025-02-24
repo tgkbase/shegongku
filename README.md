@@ -124,7 +124,7 @@
 
 ## 日月社工库机器人
 
-社工库账号：<a href="https://www.mfsgk.com/83.html" target="_blank">@RYSGKBOT</a>，使用教程：<a href="https://www.mfsgk.com/83.html" target="_blank">日月社工库机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/83.html" target="_blank">日月社工库机器人</a>，使用教程：<a href="https://www.mfsgk.com/83.html" target="_blank">日月社工库机器人</a>。
 
 
 ## 无名社工库机器人
@@ -143,7 +143,6 @@
 一个社工库分享频道，整理分享来自互联网的社工库查询工具，不定时更新最全好用免费社工库，有需要的可以关注一下。
 
 频道账号：<a href="https://t.me/itheikeji" target="_blank">黑科技社工库分享</a>
-
 
 
 
