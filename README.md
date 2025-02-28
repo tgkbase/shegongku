@@ -5,7 +5,7 @@
 
 ## 社工库导航站
 
-分享很多Telegram社工库账号及在线社工库，导航站地址： <a href="https://www.mfsgk.com/18.html" target="_blank">https://www.mfsgk.com/18.html</a>。
+社工库查询工具聚合站，不定时分享Telegram社工库账号及在线社工库，导航站地址： <a href="https://www.mfsgk.com/18.html" target="_blank">https://www.mfsgk.com/18.html</a>。
 
 
 ## 海豚查档社工库(天眼查询社工库)
@@ -85,11 +85,11 @@
 
 分享一个百亿信息的社工库机器人，免费使用哦 免费查询 全网最权威的一个。免费开户信息查询社工库，开房信息查询社工库，开盒社工库。
 
-社工库账号：<a href="https://www.mfsgk.com/36.html" target="_blank">@Zonesgk_bot</a>，详情：<a href="https://www.mfsgk.com/36.html" target="_blank">X-ray社工库</a>。
+社工库账号：<a href="https://www.mfsgk.com/36.html" target="_blank">X-ray社工库</a>，详情：<a href="https://www.mfsgk.com/36.html" target="_blank">X-ray社工库</a>。
 
 ## 哈希社工库
 
-社工库账号：<a href="https://www.mfsgk.com/38.html" target="_blank">@AnonymousSGKbot</a>，使用教程：<a href="https://www.mfsgk.com/38.html" target="_blank">哈希社工库</a>。
+社工库账号：<a href="https://www.mfsgk.com/38.html" target="_blank">哈希社工库</a>，使用教程：<a href="https://www.mfsgk.com/38.html" target="_blank">哈希社工库</a>。
 
 ## Hello World社工库机器人
 
