@@ -21,7 +21,7 @@
 
 ## 暗精灵社工库
 
-一个Telegram社工库机器人，收录45亿个人信息泄漏数据，查询最新快递数据，身份证开盒社工库，户口查询社工库、QQ群关系等。下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
+一个Telegram社工库机器人，暗精灵社工库收录45亿个人信息泄漏数据，查询最新快递数据，身份证开盒社工库，户口查询社工库、QQ群关系等。下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
 
 <a href="https://www.mfsgk.com/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
@@ -94,7 +94,7 @@
 
 ## Hello World社工库机器人
 
-社工库账号：<a href="https://www.mfsgk.com/47.html" target="_blank">@sgk2023_03_30bot</a>，使用教程：<a href="https://www.mfsgk.com/47.html" target="_blank">Hello World社工库机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/47.html" target="_blank">Hello World社工库机器人</a>，使用教程：<a href="https://www.mfsgk.com/47.html" target="_blank">Hello World社工库机器人</a>。
 
 
 ## 摩乐乐社工库机器人
