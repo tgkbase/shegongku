@@ -134,7 +134,7 @@
 
 ## 金字塔社工库机器人
 
-社工库账号：<a href="https://www.mfsgk.com/" target="_blank">@PyramidNet_SGK_2025</a>，使用教程：<a href="https://www.mfsgk.com/" target="_blank">金字塔社工库机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/" target="_blank">金字塔社工库机器人</a>，使用教程：<a href="https://www.mfsgk.com/" target="_blank">金字塔社工库机器人</a>。
 
 这个社工库账号被注销了，目前已经搜索不到.
 
