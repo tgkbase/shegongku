@@ -128,7 +128,7 @@
 
 ## 日月社工库机器人
 
-社工库账号：<a href="https://www.mfsgk.com/83.html" target="_blank">日月社工库机器人</a>，使用教程：<a href="https://www.mfsgk.com/83.html" target="_blank">日月社工库机器人</a>。
+日月社工库最近更新了社工库账号，社工库账号：<a href="https://www.mfsgk.com/83.html" target="_blank">日月社工库机器人</a>，使用教程：<a href="https://www.mfsgk.com/83.html" target="_blank">日月社工库机器人</a>。
 
 
 ## 无名社工库机器人
