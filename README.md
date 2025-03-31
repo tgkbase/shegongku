@@ -32,7 +32,7 @@
 
 ## FanHua社工库机器人(繁花社工库)
 
-支持身份证补齐的社工库机器人，查询免费，查询结果打码，需要积分解锁结果，支持签到和分享获取积分。
+繁花社工库支持身份证补齐的社工库机器人，查询免费，查询结果打码，需要积分解锁结果，支持签到和分享获取积分。
 
 <a href="https://www.mfsgk.com" target="_blank"><img src="imgs/fanhua.webp" alt="2025最新查档社工库" border="0" style="width:380px;"></a>
 
