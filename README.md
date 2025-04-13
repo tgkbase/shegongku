@@ -62,6 +62,11 @@
 
 社工库账号：<a href="https://www.mfsgk.com/30.html" target="_blank">黑盒社工库</a>，详情：<a href="https://www.mfsgk.com/30.html" target="_blank">黑盒社工库-Telegram社工库机器人</a>。
 
+## 诗人社工库
+
+诗人社工库具有自己独特功能特色，其他社工库不同的是独具联通机主信息查询，还有联通工号查询，目前此社工库运营时间不久，有需要的可以试试。
+
+社工库账号：<a href="https://www.mfsgk.com/" target="_blank">@D888884_bot</a>，详情：<a href="https://www.mfsgk.com/" target="_blank">诗人社工库开盒</a>。
 
 ## 狗狗免费社工机器人
 
