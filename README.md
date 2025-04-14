@@ -11,7 +11,7 @@
 
 ## 社工库导航站
 
-海外Telegram社工库查询工具聚合站，不定时分享Telegram社工库账号及在线社工库，导航站地址： <a href="https://www.mfsgk.com/" target="_blank">https://www.mfsgk.com/</a>。
+海外Telegram社工库查询工具聚合站，不定时分享Telegram社工库账号及在线社工库。此网站不是社工库，但收录了来自Telegram这个海外社交工具上的一些热门社工库工具。导航站地址： <a href="https://www.mfsgk.com/" target="_blank">https://www.mfsgk.com/</a>。
 
 ## 暗精灵社工库
 
