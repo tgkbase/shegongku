@@ -46,7 +46,7 @@
 
 ## AI社工库
 
-支持签到、分享获取积分。
+AI社工库（爱社工库）支持签到、分享获取积分，此社工库貌似功能失效了。
 
 社工库账号：<a href="https://www.mfsgk.com/18.html" target="_blank">AI社工库</a>，详情：<a href="https://www.mfsgk.com/18.html" target="_blank">AI社工库</a>。
 
