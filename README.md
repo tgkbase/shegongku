@@ -76,7 +76,7 @@ AI社工库（爱社工库）支持签到、分享获取积分，此社工库貌
 
 ## Hope社工库机器人
 
-支持微信绑定、QQ绑定等数据查询，但感觉数据比较旧，不如暗精灵社工库全面。
+Hope社工库支持微信绑定、QQ绑定等数据查询，但感觉数据比较旧，不如暗精灵社工库全面。
 
 社工库账号：<a href="https://www.mfsgk.com/34.html" target="_blank">Hope社工库机器人</a>，详情：<a href="https://www.mfsgk.com/34.html" target="_blank">Hope社工库机器人</a>。
 
