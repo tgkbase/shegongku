@@ -70,7 +70,7 @@ AI社工库（爱社工库）支持签到、分享获取积分，此社工库貌
 
 ## 狗狗免费社工机器人
 
-一个签到可以免费使用的社工库。
+狗狗免费社工库一个签到可以免费使用的社工库。
 
 社工库账号：<a href="https://www.mfsgk.com/27.html" target="_blank">狗狗免费社工机器人</a>，详情：<a href="https://www.mfsgk.com/27.html" target="_blank">狗狗免费社工机器人</a>。
 
