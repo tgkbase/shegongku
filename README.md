@@ -19,7 +19,7 @@
 
 <a href="https://www.mfsgk.com/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-社工库账号: <a href="https://t.me/AJL03_bot?start=1180760062" target="_blank">@AJL03_bot</a>，详情：<a href="https://www.mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
+社工库账号: <a href="https://t.me/AJL03_bot?start=7503613403" target="_blank">@AJL03_bot</a>，详情：<a href="https://www.mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
 
 
 ## ChatGPT社工库机器人
