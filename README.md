@@ -21,6 +21,9 @@
 
 社工库机器人账号，已安装注册Telegram的用户（下同）可直接通过[**传送门**](https://t.me/QingBaoJuXuanwubot?start=ODg=)访问，根据机器人提示操作即可。
 
+群友查询效果图：
+
+<a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
 
 ## ChatGPT社工库机器人
 
