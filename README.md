@@ -2,6 +2,15 @@
 
 社工库查询在线地址及社工库下载使用图文教程，社工库机器人2025最新免费可用Telegram社工库机器人，抖音社工库查询，小红书社工库查询机器人，免费社工库分享，无付费内容，拒绝❌付费，理性看待，勿用于非法用途，仅限个人隐私泄漏验证。
 
+## 情报局社工库之玄武
+
+免费社工库在线查询平台及社工库telegram查询工具，5年老牌免费社工库机器人，开盒必备社工库，收集了大量网络上泄漏的隐私数据。此社工库查询工具还有其他几个分账号，数据全，功能强大，支持签到等功能。全网数据最全的社工库了,而且>数据更新的频次非常频繁!而且有好多个分布式机器人!大家看图就知道!好几年的老牌机器人了!需要的可以试试看，免费使用的社工库机器人。
+
+社工库账号：[情报局社工库](https://t.me/QingBaoJuXuanwubot?start=ODg=)。
+
+群友查询效果图：
+
+<a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
 
 ## 社工库机器人在线分享站
 
@@ -15,15 +24,6 @@
 
 社工库账号: <a href="https://t.me/AJL03_bot?start=7503613403" target="_blank">@AJL03_bot</a>，详情：<a href="https://www.mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
 
-## 情报局社工库之玄武
-
-社工库telegram查询平台，5年老牌免费社工库机器人，开盒必备社工库，收集了大量网络上泄漏的隐私数据。此社工库查询工具还有其他几个分账号，数据全，功能强大，支持签到等功能。全网数据最全的社工库了,而且>数据更新的频次非常频繁!而且有好多个分布式机器人!大家看图就知道!好几年的老牌机器人了!需要的可以试试看，免费使用的社工库机器人，使用教程[参考](https://www.shegongku.top/179.html)。
-
-社工库机器人账号，已安装注册Telegram的用户（下同）可直接通过[**传送门**](https://t.me/QingBaoJuXuanwubot?start=ODg=)访问，根据机器人提示操作即可。
-
-群友查询效果图：
-
-<a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
 
 ## ChatGPT社工库机器人
 
