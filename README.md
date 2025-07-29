@@ -41,18 +41,12 @@
 社工库账号：[繁花社工库](https://www.shegongku.top/491.html)。
 
 
-## 社工库技巧分享
-
-最新可用社工库、正规途径的社工库技巧，律师朋友教你内行人如何免费查人：裁判文书网（欠钱、离婚）、国家企业信息公示系统（查对方有没有公司）、中国执行信息公开网（查询是不是老赖）。
-
-详情：[免费查一个人的准确资料信息](https://x.com/byhxuejie/status/1885113771674210628)。
-
 ## AI社工库
 
 AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），
 更多学分即可解锁其他诸如语言模型之类的功能。首次查询请参考[使用教程](https://www.shegongku.top/179.html)。
 
-社工库账号：<a href=""https://www.shegongku.top/43.html target="_blank">@爱社工库</a>，详情：<a href="https://www.shegongku.top/43.html" target="_blank">@AI社工库</a>。
+社工库账号：<a href="https://www.shegongku.top/43.html" target="_blank">@爱社工库</a>，详情：<a href="https://www.shegongku.top/43.html" target="_blank">@AI社工库</a>。
 
 ## 星盾社工库机器人
 
