@@ -74,9 +74,9 @@ AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量�
 
 ## Hope社工库机器人
 
-Hope社工库支持微信绑定、QQ绑定等数据查询，但感觉数据比较旧，不如暗精灵社工库全面。
+微信绑定查询社工库/QQ绑定查询社工库/抖音开户社工库等数据查询，但感觉数据比较旧，不如暗精灵社工库全面。
 
-社工库账号：<a href="https://www.mfsgk.com/34.html" target="_blank">Hope社工库机器人</a>，详情：<a href="https://www.mfsgk.com/34.html" target="_blank">Hope社工库机器人</a>。
+社工库账号：<a href="https://www.shegongku.top/42.html" target="_blank">Hope社工库机器人</a>，详情：<a href="https://www.shegongku.top/42.html" target="_blank">Hope社工库机器人</a>。
 
 
 ## X-ray社工库-免费Telegram社工库
