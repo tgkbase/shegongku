@@ -116,9 +116,9 @@ AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量�
 
 提供傻瓜式查询服务，社工库数据包含全国电话表数据，全国快递订单数据，QQ绑定数据，数据由智网自动开户籍机器人提供？
 
-<a href="https://www.mfsgk.com" target="_blank"><img src="imgs/xiaohaige.png" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
+<a href="https://www.shegongku.top/445.html" target="_blank"><img src="imgs/xiaohaige.png" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
 
-社工库账号：<a href="https://t.me/itheikeji_xhgsgk_bot" target="_blank">@itheikeji_xhgsgk_bot</a>，使用教程：<a href="https://www.mfsgk.com/70.html" target="_blank">小孩哥社工库机器人</a>。
+社工库账号：<a href="https://www.shegongku.top/445.html" target="_blank">@小孩哥社工库机器人</a>，使用教程：<a href="https://www.shegongku.top/445.html" target="_blank">小孩哥社工库机器人</a>。
 
 ## 日月社工库机器人
 
