@@ -81,7 +81,7 @@ AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量�
 
 ## X-ray社工库-免费Telegram社工库
 
-分享一个百亿信息的社工库机器人，免费使用哦 免费查询 全网最权威的一个。免费开户信息查询社工库，开房信息查询社工库，开盒社工库。
+免费Telegram社工库Xray是一个百亿信息的社工库机器人，免费使用哦 免费查询 全网最权威的一个。免费开户信息查询社工库，开房信息查询社工库，开盒社工库。
 
 社工库账号：<a href="https://www.mfsgk.com/36.html" target="_blank">X-ray社工库</a>，详情：<a href="https://www.mfsgk.com/36.html" target="_blank">X-ray社工库</a>。
 
