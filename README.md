@@ -152,4 +152,4 @@ AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量�
 * <a href="https://www.shegongku.top/21.html" target="_blank" >2025最新免费社工库(更新中)</a>
 * <a href="https://www.itheikeji.cc/5404.html" target="_blank">社工库: 2025全网最全Telegram社工库，隐私信息查询</a>
 * <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>
-* <a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库telegram使用方法(Telegram社工库使用图文教程)</a>
+* <a href="https://www.shegongku.top/179.html" target="_blank">2025年最新telegram社工库使用方法(Telegram社工库使用图文教程)</a>
