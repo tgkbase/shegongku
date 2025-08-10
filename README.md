@@ -20,10 +20,15 @@
 
 免费在线社工库查询工具，老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。暗精灵社工库收录45亿个人信息泄漏数据，查询最新快递数据，身份证开盒社工库，户口查询社工库、QQ群关系等。下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
 
-<a href="https://www.mfsgk.com/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
+<a href="https://www.shegongku.top/1.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-社工库账号: <a href="https://t.me/AJL03_bot?start=7503613403" target="_blank">@AJL03_bot</a>，详情：<a href="https://www.mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
+社工库账号: <a href="https://t.me/AJL03_bot?start=7503613403" target="_blank">@AJL03_bot</a>，详情：<a href="https://www.shegongku.top/1.html" target="_blank">暗精灵社工库</a>。
 
+## 咖喱免费社工库
+
+社工库telegram查询机器人，支持抖音号查询个人信息，微信号反查个人信息。
+
+社工库账号: <a href="https://t.me/KaliSGKbot?start=76d6fb" target="_blank">@咖喱免费社工库</a>，详情：<a href="https://www.mfsgk.com/212.html" target="_blank">咖喱免费社工库下载使用</a>。
 
 ## ChatGPT社工库机器人
 
