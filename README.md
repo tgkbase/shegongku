@@ -22,7 +22,7 @@
 
 <a href="https://www.shegongku.top/1.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-社工库账号: <a href="https://t.me/AJL03_bot?start=7503613403" target="_blank">@AJL03_bot</a>，详情：<a href="https://www.shegongku.top/1.html" target="_blank">暗精灵社工库</a>。
+社工库账号: <a href="https://t.me/AJL007_bot?start=7503613403" target="_blank">@AJL07_bot</a>，详情：<a href="https://www.shegongku.top/1.html" target="_blank">暗精灵社工库</a>。
 
 ## 咖喱免费社工库
 
