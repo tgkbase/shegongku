@@ -22,13 +22,13 @@
 
 <a href="https://www.shegongku.top/1.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-社工库账号: <a href="https://t.me/AJL007_bot?start=7503613403" target="_blank">@AJL07_bot</a>，详情：<a href="https://www.shegongku.top/1.html" target="_blank">暗精灵社工库</a>。
+社工库账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL07_bot</a>，详情：<a href="https://www.shegongku.top/1.html" target="_blank">暗精灵社工库</a>。
 
 ## 咖喱免费社工库
 
 社工库telegram查询机器人，支持抖音号查询个人信息，微信号反查个人信息。
 
-社工库账号: <a href="https://t.me/KaliSGKbot?start=76d6fb" target="_blank">@咖喱免费社工库</a>，详情：<a href="https://www.mfsgk.com/212.html" target="_blank">咖喱免费社工库下载使用</a>。
+社工库账号: <a href="https://www.shegongku.top/642.html" target="_blank">@咖喱免费社工库</a>，详情：<a href="https://www.shegongku.top/642.html" target="_blank">咖喱免费社工库下载使用</a>。
 
 ## ChatGPT社工库机器人
 
