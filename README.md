@@ -12,10 +12,6 @@
 
 <a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
 
-## 社工库机器人在线分享站
-
-海外Telegram社工库查询工具聚合站，不定时分享Telegram社工库账号及在线社工库。此网站不是社工库，但收录了来自Telegram这个海外社交工具上的一些热门社工库工具。导航站地址： <a href="https://www.mfsgk.com/" target="_blank">https://www.mfsgk.com/</a>。
-
 ## 暗精灵社工库
 
 免费在线社工库查询工具，老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。暗精灵社工库收录45亿个人信息泄漏数据，查询最新快递数据，身份证开盒社工库，户口查询社工库、QQ群关系等。下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
