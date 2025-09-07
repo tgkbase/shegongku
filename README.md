@@ -26,12 +26,19 @@
 
 社工库账号: <a href="https://www.shegongku.top/642.html" target="_blank">@咖喱免费社工库</a>，详情：<a href="https://www.shegongku.top/642.html" target="_blank">咖喱免费社工库下载使用</a>。
 
+## AI社工库
+
+AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），
+更多学分即可解锁其他诸如语言模型之类的功能。首次查询请参考[使用教程](https://www.shegongku.top/179.html)。
+
+社工库账号：<a href="https://www.shegongku.top/43.html" target="_blank">@爱社工库</a>，详情：<a href="https://www.shegongku.top/43.html" target="_blank">@AI社工库</a>。
+
+
 ## ChatGPT社工库机器人
 
 🔥ChatGPT社工库机器人是一个综合信息查询机器人🔥，查询各类泄漏数据的社工库，势要打造全网热搜榜NO.1的社工库，目前维护中，没法使用。
 
 社工库账号：<a href="https://www.mfsgk.com/" target="_blank">ChatGPT社工库机器人</a>。
-
 
 ## FanHua社工库机器人(繁花社工库)
 
@@ -41,14 +48,6 @@
 
 社工库账号：[繁花社工库](https://www.shegongku.top/491.html)。
 
-
-## AI社工库
-
-AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），
-更多学分即可解锁其他诸如语言模型之类的功能。首次查询请参考[使用教程](https://www.shegongku.top/179.html)。
-
-社工库账号：<a href="https://www.shegongku.top/43.html" target="_blank">@爱社工库</a>，详情：<a href="https://www.shegongku.top/43.html" target="_blank">@AI社工库</a>。
-
 ## 星盾社工库机器人
 
 全球社工库2025智能在线查询系统星盾社工库支持分享来获取积分，超强的快递地址查询功能，微信绑定查询、微博绑定查询等，数据收录较全，真实性自行验证。
@@ -57,7 +56,7 @@ AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量�
 
 ## 黑盒社工库机器人
 
-免费社工库telegram查询工具，游戏开户/微信号社工库/手机定位社工库，黑盒社工库包含数据量比较全的一个社工库，这里不对社工库返回的数据真实性多做评价，请自行鉴别~
+免费社工库telegram查询工具，手机号社工库/游戏开户/微信号社工库/手机定位社工库，黑盒社工库包含数据量比较全的一个社工库，这里不对社工库返回的数据真实性多做评价，请自行鉴别~
 
 社工库账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>，详情：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库-Telegram社工库机器人</a>。
 
