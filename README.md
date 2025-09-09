@@ -28,8 +28,8 @@
 
 ## AI社工库
 
-AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），
-更多学分即可解锁其他诸如语言模型之类的功能。首次查询请参考[使用教程](https://www.shegongku.top/179.html)。
+免费AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），
+更多学分即可解锁其他诸如语言模型之类的功能。账号已更新，首次查询请参考[使用教程](https://www.shegongku.top/43.html)。
 
 社工库账号：<a href="https://www.shegongku.top/43.html" target="_blank">@爱社工库</a>，详情：<a href="https://www.shegongku.top/43.html" target="_blank">@AI社工库</a>。
 
