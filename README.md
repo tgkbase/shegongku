@@ -20,6 +20,13 @@
 
 社工库账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL07_bot</a>，详情：<a href="https://www.shegongku.top/1.html" target="_blank">暗精灵社工库</a>。
 
+## 查档王社工库
+
+免费社工库新秀查档王社工库，主打身份信息开盒，身份证手机库/带身份证案件详情/全家户籍/车主信息，订阅频道后每日签到免费使用。
+
+社工库账号: <a href="https://t.me/cdwcd_bot?start=88" target="_blank">@查档王社工库账号</a>，详情：<a href="https://www.shegongku.top/667.html" target="_blank">查档王社工库</a>。
+
+
 ## 咖喱免费社工库
 
 社工库telegram查询机器人，支持抖音号查询个人信息，微信号反查个人信息。
