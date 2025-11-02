@@ -41,11 +41,11 @@
 社工库账号：<a href="https://www.shegongku.top/43.html" target="_blank">@爱社工库</a>，详情：<a href="https://www.shegongku.top/43.html" target="_blank">@AI社工库</a>。
 
 
-## ChatGPT社工库机器人
+## Sky社工库
 
-🔥ChatGPT社工库机器人是一个综合信息查询机器人🔥，查询各类泄漏数据的社工库，势要打造全网热搜榜NO.1的社工库，目前维护中，没法使用。
+免费sky社工库是一个专业数据侦测助手，可以针对快递数据/机主信息等进行快速查询，不过此社工库只支持邀请获取积分这样方式白嫖。
 
-社工库账号：<a href="https://www.mfsgk.com/" target="_blank">ChatGPT社工库机器人</a>。
+社工库账号：<a href="https://www.shegongku.top/" target="_blank">免费sky社工库</a>。
 
 ## FanHua社工库机器人(繁花社工库)
 
