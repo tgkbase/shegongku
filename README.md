@@ -37,7 +37,7 @@
 
 ## 咖喱免费社工库
 
-免费手机号社工库是一个telegram查询机器人，支持抖音号查询个人信息，微信号反查个人信息。
+免费手机号社工库是一个telegram查询机器人，Kali社工库支持抖音号查询个人信息，微信号反查个人信息。
 
 社工库账号: <a href="https://t.me/QingBaoJuXuanwubot?start=ODg=" target="_blank">@咖喱免费社工库</a>，详情：<a href="https://www.shegongku.top/642.html" target="_blank">咖喱免费社工库下载使用</a>。
 
