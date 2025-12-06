@@ -6,7 +6,7 @@
 
 最新免费社工库在线查询平台及社工库telegram查询工具，5年老牌免费社工库机器人，开盒必备社工库，收集了大量网络上泄漏的隐私数据。此社工库查询工具还有其他几个分账号，数据全，功能强大，支持签到等功能。全网数据最全的社工库了,而且>数据更新的频次非常频繁!而且有好多个分布式机器人!大家看图就知道!好几年的老牌机器人了!需要的可以试试看，免费使用的社工库机器人。
 
-社工库账号：[情报局社工库](https://t.me/QingBaoJuXuanwubot?start=ODg=)。
+社工库账号：[情报局社工库](https://t.me/QingBaoJuXWbot?start=88)。
 
 群友查询效果图：
 
@@ -39,7 +39,7 @@
 
 免费咖喱社工库是一个telegram查询机器人，Kali社工库支持抖音号查询个人信息，微信号反查个人信息。
 
-社工库账号: <a href="https://t.me/QingBaoJuXuanwubot?start=ODg=" target="_blank">@咖喱免费社工库</a>，详情：<a href="https://www.shegongku.top/642.html" target="_blank">咖喱免费社工库下载使用</a>。
+社工库账号: <a href="https://t.me/QingBaoJuXWbot?start=88" target="_blank">@咖喱免费社工库</a>，详情：<a href="https://www.shegongku.top/642.html" target="_blank">咖喱免费社工库下载使用</a>。
 
 ## Sky社工库
 
