@@ -1,6 +1,6 @@
 # 2025最新Telegram社工库整理分享
 
-最新社工库查询在线地址及社工库下载使用图文教程，社工库机器人2025最新免费可用Telegram社工库机器人，抖音社工库查询，小红书社工库查询机器人，免费社工库分享，无付费内容，拒绝❌付费，理性看待，勿用于非法用途，仅限个人隐私泄漏验证。
+2025最新社工库查询在线地址及社工库下载使用图文教程，社工库机器人2025最新免费可用Telegram社工库机器人，抖音社工库查询，小红书社工库查询机器人，免费社工库分享，无付费内容，拒绝❌付费，理性看待，勿用于非法用途，仅限个人隐私泄漏验证。
 
 ## 情报局社工库之玄武
 
@@ -16,7 +16,7 @@
 
 暗精灵社工库是一个免费在线社工库查询工具，老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。暗精灵社工库收录45亿个人信息泄漏数据，查询最新快递数据，身份证开盒社工库，户口查询社工库、QQ群关系等。下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
 
-<a href="https://www.shegongku.top/1.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
+<a href="https://www.mfsgk.com/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">直达链接</a>，开始使用：<a href="https://www.shegongku.top/1.html" target="_blank">暗精灵社工库</a>。
 
