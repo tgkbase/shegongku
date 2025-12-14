@@ -4,13 +4,21 @@
 
 ## 情报局社工库之玄武
 
-最新免费社工库在线查询平台及社工库telegram查询工具，5年老牌免费社工库机器人，开盒必备社工库，收集了大量网络上泄漏的隐私数据。此社工库查询工具还有其他几个分账号，数据全，功能强大，支持签到等功能。全网数据最全的社工库了,而且>数据更新的频次非常频繁!而且有好多个分布式机器人!大家看图就知道!好几年的老牌机器人了!需要的可以试试看，免费使用的社工库机器人。
+最新免费社工库在线查询平台及社工库telegram查询工具，5年老牌免费社工库机器人，开盒必备社工库，收集了大量网络上泄漏的隐私数据。此社工库查询工具还有其他几个分账号，数据全，功能强大，支持签到等功能。全网数据最全的社工库了,而且数据更新的频次非常频繁!而且有好多个分布式机器人!大家看图就知道!好几年的老牌机器人了!需要的可以试试看，免费使用的社工库机器人。
 
 社工库账号：[情报局社工库](https://t.me/QingBaoJuXWbot?start=88)。
 
 群友查询效果图：
 
 <a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
+
+## 查档王社工库
+
+免费社工库新秀查档王社工库，主打身份信息开盒，身份证手机库/带身份证案件详情/全家户籍/车主信息，订阅频道后每日签到免费使用。
+
+<a href="https://t.me/cdw_001bot?start=88" target="_blank"><img src="imgs/chadangwang.png" alt="最新免费社工库" border="0" style="width:380px;"></a>
+
+免费社工库账号: <a href="https://t.me/cdw_001bot?start=88" target="_blank">@查档王社工库账号</a>。
 
 ## 暗精灵社工库
 
@@ -20,13 +28,6 @@
 
 社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">直达链接</a>，开始使用：<a href="https://www.shegongku.top/1.html" target="_blank">暗精灵社工库</a>。
 
-## 查档王社工库
-
-免费社工库新秀查档王社工库，主打身份信息开盒，身份证手机库/带身份证案件详情/全家户籍/车主信息，订阅频道后每日签到免费使用。
-
-<a href="https://t.me/cdw_001bot?start=88" target="_blank"><img src="imgs/chadangwang.png" alt="最新免费社工库" border="0" style="width:380px;"></a>
-
-免费社工库账号: <a href="https://t.me/cdw_001bot?start=88" target="_blank">@查档王社工库账号</a>。
 
 
 ## AI社工库
