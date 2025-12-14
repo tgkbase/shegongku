@@ -24,7 +24,7 @@
 
 免费社工库新秀查档王社工库，主打身份信息开盒，身份证手机库/带身份证案件详情/全家户籍/车主信息，订阅频道后每日签到免费使用。
 
-<a href="https://t.me/cdw_001bot?start=88"" target="_blank"><img src="imgs/changdangwang.png" alt="最新免费社工库" border="0" style="width:380px;"></a>
+<a href="https://t.me/cdw_001bot?start=88"" target="_blank"><img src="imgs/chadangwang.png" alt="最新免费社工库" border="0" style="width:380px;"></a>
 
 免费社工库账号: <a href="https://t.me/cdw_001bot?start=88" target="_blank">@查档王社工库账号</a>。
 
