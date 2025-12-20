@@ -28,13 +28,11 @@
 
 社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">直达链接</a>，开始使用：<a href="https://www.mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
 
-
 ## AI社工库
 
 免费AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），更多学分即可解锁其他诸如语言模型之类的功能。账号已更新，首次查询请参考[使用教程](https://www.mfsgk.com/22.html)。
 
 社工库账号：<a href="https://www.mfsgk.com/22.html" target="_blank">@爱社工库</a>。
-
 
 ## 咖喱免费社工库
 
@@ -42,11 +40,17 @@
 
 社工库账号: <a href="https://t.me/QingBaoJuXWbot?start=88" target="_blank">@咖喱免费社工库</a>，详情：<a href="https://www.shegongku.top/642.html" target="_blank">咖喱免费社工库下载使用</a>。
 
+## 启航社工库软件
+
+启航社工库软件是一个最新免费社工库信息查询平台。不过试了下返回的数据较少，建议免费签到自测，人工查询服务不建议使用。
+
+社工库账号：<a href="https://t.me/fzgsgk" target="_blank">@fzgsgk</a>。
+
 ## Sky社工库
 
 免费sky社工库是一个专业数据侦测助手，可以针对快递数据/机主信息等进行快速查询，不过此社工库只支持邀请获取积分这样方式白嫖。
 
-社工库账号：<a href="https://www.shegongku.top/" target="_blank">免费sky社工库</a>。
+社工库账号：<a href="https://www.mfsgk.com/" target="_blank">@shegongku2025</a>。
 
 ## FanHua社工库机器人(繁花社工库)
 
