@@ -58,7 +58,7 @@
 
 <a href="https://www.mfsgk.com" target="_blank"><img src="imgs/fanhua.webp" alt="2025最新查档社工库" border="0" style="width:380px;"></a>
 
-社工库账号：[繁花社工库](https://www.shegongku.top/491.html)。
+社工库账号：[@JieladeSGKBOT2025](https://t.me/JieladeSGKBOT2025)。
 
 ## 星盾社工库机器人
 
