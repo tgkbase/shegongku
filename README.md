@@ -43,7 +43,7 @@
 
 免费AI社工库也叫爱社工库，知名免费开盒Telegram社工库，数据量大且优质，AI社工库(奥创)拥有超高准确率，输出结果信息较为全面，查询永久免费，账号已更新，首次查询请参考[使用教程](https://www.mfsgk.com/22.html)。
 
-<img src="https://i.urusai.cc/jkzRt.png" alt="AI社工库(奥创)" border="0" style="width:380px;">
+<img src="https://i.urusai.cc/8Efjp.jpeg" alt="AI社工库(奥创)" border="0" style="width:380px;">
 
 社工库账号：<a href="https://t.me/aisgk111111bot?start=90" target="_blank">@AI社工库(奥创)</a>。
 
