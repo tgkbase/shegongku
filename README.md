@@ -20,13 +20,6 @@
 
 免费社工库账号: <a href="https://t.me/cdw_001bot?start=88" target="_blank">@查档王社工库账号</a>。
 
-## 六扇门铁手社工库
-
-六扇门查档telegram社工库拥有全网最全数据，新用户免费用10次，每日签到继续免费用，号称拥有全国之百分之八十个户信息，嗯，超强免费telegram社工库。
-
-* 六扇门铁手社工库账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">@六扇门铁手社工库</a>
-
-<img src="https://i.urusai.cc/P92ez.jpeg" alt="六扇门铁手社工库" border="0" style="width:380px;">
 
 ## 暗精灵社工库
 
@@ -35,6 +28,16 @@
 <a href="https://www.mfsgk.com/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">直达链接</a>，开始使用：<a href="https://www.mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
+
+
+## 六扇门铁手社工库
+
+六扇门查档telegram社工库拥有全网最全数据，新用户免费用10次，每日签到继续免费用，号称拥有全国之百分之八十个户信息，嗯，超强免费telegram社工库。
+
+* 六扇门铁手社工库账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">@六扇门铁手社工库</a>
+
+<img src="https://i.urusai.cc/P92ez.jpeg" alt="六扇门铁手社工库" border="0" style="width:380px;">
+
 
 ## AI社工库
 
