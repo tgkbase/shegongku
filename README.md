@@ -20,6 +20,14 @@
 
 免费社工库账号: <a href="https://t.me/cdw_001bot?start=88" target="_blank">@查档王社工库账号</a>。
 
+## 六扇门铁手社工库
+
+六扇门查档telegram社工库拥有全网最全数据，新用户免费用10次，每日签到继续免费用，号称拥有全国之百分之八十个户信息，嗯，超强免费telegram社工库。
+
+* 六扇门铁手社工库账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">@六扇门铁手社工库</a>
+
+<img src="https://i.urusai.cc/P92ez.jpeg" alt="六扇门铁手社工库" border="0" style="width:380px;">
+
 ## 暗精灵社工库
 
 暗精灵社工库是一个免费在线社工库查询工具，老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。暗精灵社工库收录45亿个人信息泄漏数据，查询最新快递数据，身份证开盒社工库，户口查询社工库、QQ群关系等。下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
