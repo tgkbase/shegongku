@@ -34,9 +34,9 @@
 
 六扇门查档telegram社工库拥有全网最全数据，新用户免费用10次，每日签到继续免费用，号称拥有全国之百分之八十个户信息，嗯，超强免费telegram社工库。
 
-* 六扇门铁手社工库账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">@六扇门铁手社工库</a>
-
 <img src="https://i.urusai.cc/P92ez.jpeg" alt="六扇门铁手社工库" border="0" style="width:380px;">
+
+六扇门铁手社工库账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">点击跳转</a>
 
 
 ## AI社工库
