@@ -77,7 +77,7 @@
 
 全球社工库2025智能在线查询系统星盾社工库支持分享来获取积分，超强的快递地址查询功能，微信绑定查询、微博绑定查询等，数据收录较全，真实性自行验证。
 
-社工库账号：<a href="https://www.shegongku.top/34.html" target="_blank">@星盾社工库机器人</a>，详情：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工库机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/25.html" target="_blank">@星盾社工库机器人</a>。
 
 ## 黑盒社工库机器人
 
