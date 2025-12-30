@@ -10,7 +10,7 @@
 
 群友查询效果图：
 
-<a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
+<a href="https://www.mfsgk.com/154.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
 
 ## 查档王社工库
 
