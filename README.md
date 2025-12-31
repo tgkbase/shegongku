@@ -36,7 +36,7 @@
 
 <img src="https://i.urusai.cc/P92ez.jpeg" alt="六扇门铁手社工库" border="0" style="width:380px;">
 
-六扇门铁手社工库账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">点击跳转</a>
+六扇门铁手社工库账号：<a href="https://t.me/LSMCDLXBOT?start=1" target="_blank">点击跳转</a>
 
 
 ## AI社工库(奥创)
