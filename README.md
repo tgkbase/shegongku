@@ -83,7 +83,7 @@
 
 免费社工库telegram查询工具，手机号社工库/游戏开户/微信号社工库/手机定位社工库，黑盒社工库包含数据量比较全的一个社工库，这里不对社工库返回的数据真实性多做评价，请自行鉴别~
 
-社工库账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>，详情：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库-Telegram社工库机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/30.html" target="_blank">黑盒社工库</a>。
 
 ## 诗人社工库
 
