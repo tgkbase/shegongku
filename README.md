@@ -29,7 +29,6 @@
 
 社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">直达链接</a>，开始使用：<a href="https://www.mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
 
-
 ## 六扇门铁手社工库
 
 免费专业的暗网社工库查询工具，六扇门查档telegram社工库拥有全网最全数据，新用户免费用10次，每日签到继续免费用，号称拥有全国之百分之八十个户信息，嗯，超强免费telegram社工库。
@@ -141,9 +140,9 @@
 
 提供傻瓜式查询服务，社工库数据包含全国电话表数据，全国快递订单数据，QQ绑定数据，数据由智网自动开户籍机器人提供？
 
-<a href="https://www.shegongku.top/445.html" target="_blank"><img src="imgs/xiaohaige.png" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
+<a href="https://www.mfsgk.com/70.html" target="_blank"><img src="imgs/xiaohaige.png" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
 
-社工库账号：<a href="https://www.shegongku.top/445.html" target="_blank">@小孩哥社工库机器人</a>，使用教程：<a href="https://www.shegongku.top/445.html" target="_blank">小孩哥社工库机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/70.html" target="_blank">@小孩哥社工库机器人</a>，使用教程：<a href="https://www.shegongku.top/445.html" target="_blank">小孩哥社工库机器人</a>。
 
 ## 日月社工库机器人
 
