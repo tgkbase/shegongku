@@ -62,7 +62,7 @@ qbj社工库是一个5年老牌免费社工库telegram机器人,免费提供社�
 
 免费sky社工库是一个专业数据侦测助手，可以针对快递数据/机主信息等进行快速查询，不过此社工库只支持邀请获取积分这样方式白嫖。
 
-社工库账号：<a href="https://www.mfsgk.com/" target="_blank">@shegongku2025</a>。
+社工库账号：<a href="https://t.me/shegongku2025" target="_blank">@shegongku2025</a>，使用教程参考<a href="https://www.itheikeji.net/24096.html">这里</a>。
 
 ## FanHua社工库机器人(繁花社工库)
 
