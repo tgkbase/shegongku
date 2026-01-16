@@ -18,7 +18,7 @@ qbj社工库是一个5年老牌免费社工库telegram机器人,免费提供社�
 
 <a href="https://t.me/cdw_001bot?start=88" target="_blank"><img src="imgs/chadangwang.png" alt="最新免费社工库" border="0" style="width:380px;"></a>
 
-免费社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">@查档王社工库账号</a>。
+免费社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">@查档王社工库账号</a>，使用方法见[底部](#相关教程)。
 
 
 ## 暗精灵社工库
