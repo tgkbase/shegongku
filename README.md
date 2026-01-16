@@ -6,7 +6,7 @@
 
 qbj社工库是一个5年老牌免费社工库telegram机器人,免费提供社工库在线查询服务,开盒必备社工库,收集了大量网络上泄漏的隐私数据。此社工库查询工具还有其他几个分账号，数据全，功能强大，支持签到等功能。全网数据最全的社工库了,而且数据更新的频次非常频繁!而且有好多个分布式机器人!大家看图就知道!好几年的老牌机器人了!需要的可以试试看，免费使用的社工库机器人。
 
-社工库账号：[情报局社工库](https://t.me/AJL05_bot?start=7503613403)。
+社工库账号：[情报局社工库](https://t.me/AJL05_bot?start=7503613403)，使用方法见[底部](#相关教程)。
 
 群友查询效果图：
 
@@ -168,10 +168,7 @@ qbj社工库是一个5年老牌免费社工库telegram机器人,免费提供社�
 
 
 
-参考文章：
+## 相关教程
 
-
-* <a href="https://github.com/wwwwho/SGK_Sites_and_Bots" target="_blank" rel="noopener">免费在线社工库、Telegram社工库合集</a>
-* <a href="https://www.shegongku.top/21.html" target="_blank" >2025最新免费社工库(更新中)</a>
 * <a href="https://www.itheikeji.net/24096.html" target="_blank">2026最新零基础社工库使用教程</a>
 
