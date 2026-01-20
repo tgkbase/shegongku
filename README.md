@@ -171,5 +171,5 @@
 
 ## 相关教程
 
-* <a href="https://www.itheikeji.net/24096.html" target="_blank">2026最新零基础社工库使用教程</a>
+* 社工库视频教程:<a href="https://www.itheikeji.net/24096.html" target="_blank">2026最新零基础社工库使用教程</a>
 
