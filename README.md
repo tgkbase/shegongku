@@ -27,7 +27,7 @@
 
 <a href="https://www.mfsgk.com/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">直达链接</a>，开始使用：<a href="https://www.mfsgk.com/18.html" target="_blank">暗精灵社工库</a>。
+社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">直达链接</a>，使用方法见[底部](#相关教程)。
 
 
 ## AI社工库(奥创)
