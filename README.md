@@ -36,7 +36,7 @@
 
 <img src="https://i.urusai.cc/8Efjp.jpeg" alt="AI社工库(奥创)" border="0" style="width:380px;">
 
-社工库账号：<a href="https://t.me/aisgk111111bot?start=90" target="_blank">@AI社工库(奥创)</a>。
+社工库账号：<a href="https://t.me/aisgk111111bot?start=90" target="_blank">@AI社工库(奥创)</a>，使用方法见[底部](#相关教程)。
 
 ## 六扇门铁手社工库
 
