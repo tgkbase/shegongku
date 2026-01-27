@@ -51,7 +51,7 @@
 
 免费咖喱社工库是一个telegram查询机器人，Kali社工库支持抖音号查询个人信息，微信号反查个人信息。
 
-社工库账号: <a href="https://t.me/mfsgk2025" target="_blank">@mfsgk2025</a>。
+社工库账号: <a href="https://t.me/mfsgk2025" target="_blank">@mfsgk2025</a>,使用方法见[底部](#相关教程)。
 
 ## 启航社工库软件
 
