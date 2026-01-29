@@ -143,7 +143,7 @@
 
 <a href="https://www.mfsgk.com/70.html" target="_blank"><img src="imgs/xiaohaige.png" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
 
-社工库账号：<a href="https://www.mfsgk.com/70.html" target="_blank">@小孩哥社工库机器人</a>，使用教程：<a href="https://www.shegongku.top/445.html" target="_blank">小孩哥社工库机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/70.html" target="_blank">@小孩哥社工库机器人</a>,使用方法见[底部](#相关教程)。
 
 ## 日月社工库机器人
 
