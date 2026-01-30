@@ -57,13 +57,13 @@
 
 启航社工库软件是一个最新免费社工库信息查询平台。不过试了下返回的数据较少，建议免费签到自测，人工查询服务不建议使用。
 
-社工库账号：<a href="https://t.me/fzgsgk" target="_blank">@fzgsgk</a>。
+社工库账号：<a href="https://t.me/fzgsgk" target="_blank">@fzgsgk</a>,使用方法见[底部](#相关教程)。
 
 ## Sky社工库
 
 免费sky社工库是一个专业数据侦测助手，可以针对快递数据/机主信息等进行快速查询，不过此社工库只支持邀请获取积分这样方式白嫖。
 
-社工库账号：<a href="https://t.me/shegongku2025" target="_blank">@shegongku2025</a>，使用教程参考<a href="https://www.itheikeji.net/24096.html">这里</a>。
+社工库账号：<a href="https://t.me/shegongku2025" target="_blank">@shegongku2025</a>,使用方法见[底部](#相关教程)。
 
 ## FanHua社工库机器人(繁花社工库)
 
