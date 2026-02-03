@@ -152,7 +152,8 @@
 
 ## 无名社工库机器人
 
-社工库账号：<a href="https://www.mfsgk.com/85.html" target="_blank">无名社工库机器人</a>，使用教程：<a href="https://www.mfsgk.com/85.html" target="_blank">无名社工库机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/85.html" target="_blank">无名社工库机器人</a>,使用方法见[底部](#相关教程)。
+
 
 ## 金字塔社工库机器人
 
