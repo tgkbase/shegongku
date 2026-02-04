@@ -95,7 +95,7 @@
 
 狗狗免费社工库一个签到可以免费使用的社工库。
 
-社工库账号：<a href="https://www.mfsgk.com/27.html" target="_blank">狗狗免费社工机器人</a>，详情：<a href="https://www.mfsgk.com/27.html" target="_blank">狗狗免费社工机器人</a>。
+社工库账号：<a href="https://www.mfsgk.com/27.html" target="_blank">狗狗免费社工机器人</a>,使用方法见[底部](#相关教程)。
 
 ## Hope社工库机器人
 
