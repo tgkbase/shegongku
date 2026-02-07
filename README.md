@@ -108,7 +108,8 @@
 
 手机号社工库是指可以查询手机机主信息的社工库,Xray社工库是一个百亿信息的社工库机器人，免费使用哦 免费查询 全网最权威的一个。免费开户信息查询社工库，开房信息查询社工库，开盒社工库。
 
-社工库账号：<a href="https://www.mfsgk.com/36.html" target="_blank">X-ray社工库</a>，详情：<a href="https://www.mfsgk.com/36.html" target="_blank">X-ray社工库</a>。
+社工库账号：<a href="https://www.mfsgk.com/36.html" target="_blank">X-ray社工库</a>,使用方法见[底部](#相关教程)>
+。
 
 ## 哈希社工库
 
