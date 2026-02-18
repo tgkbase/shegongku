@@ -69,7 +69,7 @@
 
 最新免费微信社工库查询工具，繁花社工库支持身份证补齐的社工库机器人，查询免费，查询结果打码，需要积分解锁结果，支持签到和分享获取积分。
 
-<a href="https://www.mfsgk.com" target="_blank"><img src="imgs/fanhua.webp" alt="2025最新查档社工库" border="0" style="width:380px;"></a>
+<a href="https://www.mfsgk.com" target="_blank"><img src="imgs/fanhua.webp" alt="2026最新查档社工库" border="0" style="width:380px;"></a>
 
 社工库账号：[@JieladeSGKBOT2025](https://t.me/JieladeSGKBOT2025)。
 
@@ -99,7 +99,7 @@
 
 ## Hope社工库机器人
 
-微信绑定查询社工库/QQ绑定查询社工库/抖音开户社工库等数据查询，但感觉数据比较旧，不如暗精灵社工库全面。
+hope社工库是一个微信绑定查询社工库,同时支持QQ绑定查询社工库/抖音开户社工库等数据查询，但感觉数据比较旧，不如暗精灵社工库全面。
 
 社工库账号：<a href="https://www.shegongku.top/42.html" target="_blank">Hope社工库机器人</a>,使用方法见[底部](#相关教程)。
 
