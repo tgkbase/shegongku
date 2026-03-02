@@ -12,6 +12,11 @@
 
 <a href="https://www.mfsgk.com/154.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
 
+## 天眼社工库天玑
+
+天眼社工库拥有数百亿数据,全网独家姓名选人,对新人比较友好,新人免费使用5次,之后可以通过邀请的方式获取积分免费使用.
+
+社工库账号:[天眼社工库天玑](https://t.me/tysgk03bot?start=88)，使用方法见[底部](#相关教程)。
 
 ## 暗精灵社工库
 
